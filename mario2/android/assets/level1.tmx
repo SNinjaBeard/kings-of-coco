@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" nextobjectid="153">
- <tileset firstgid="1" name="tileset_gutter" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="924">
+ <tileset firstgid="1" name="tileset_gutter" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="924" columns="33">
   <image source="tileset_gutter.png" width="594" height="504"/>
   <tile id="0">
    <properties>
@@ -118,7 +118,7 @@
  </layer>
  <layer name="Graphic Layer" width="240" height="13">
   <data encoding="base64" compression="zlib">
-   eJztl01OwzAQhd2wAtoiYNWtl0CLBBSk3oyDAGsuAeRs2TBRO8p08PgndpomWOqnOM7Yfh77xU1ZKFXuOFFNOZPJDAvuX7yvr1XRQOspb1D3DnxEaMA+YvuJGTt23KHPIevfspgcdu4xoC/Ro1jH6+k9ra/LX3D9Bn488irlFvuw9dPVfnDpH8Mcsn5/NpNw/X1Bz1V6j16WPEuhbW1rk3JvxO6Htv0NdQ5Zvz/o39R7qAu4f8vir39pHfd3xfpa/KNvafhZkWJjchTaVtKDzxY7TM/HhlZbXHGbAf5/pmep9N3b9vzNZPpGq/H613RfMUpDWYrLZI4Jrcbr30xmzGiVzr9T1dD3vGLh32EF+Y7q8nvqFHJ7BiiP/kNifUkxP6ltIfRLcy2VffoPGRPRylx2oVX7tlxb23yjBo6rneTfGbSdAxeR+wn3ZUwfx0b93/vTY2438OyWePIqIPZYsc2hT7TBg9qQS65fG7wite1auwmXfpN/6zN3SYg5g3Ff9r2+IfvO953jmhv15CVcH4BrId7l32PwjWsOKdcgBG3xIK3j+rXgFVMd1R97JtH2XIOkScq/yb/z3dm7Uk05dA3OIW4KzA7s3zWM9Ux4mdj33ZrEYZ3vO4fGrdmYFXmO4z9adGBsCv0pcsf785lDyjXwhe93HJPXc/02r/B6rp/vj1D92N6kQdJE9T+xd5Dk33vi31fHGnDuIGYJrBL4tz6WMvukyk3Oc/qcZvb5BRdfbQI=
+   eJztmEtOwzAQhp2wAtoiYNWtl0CLBBSk3oyDAGsuAeRs2TBRa3U6zPhRO80DS3wissfj3xP/cdKqVKrKZDKD5kTtQ/trhJTjDXgHPiJ0mByxeWLmjp136GvI+jfMi+OuPQbsS+xfya81c/0FfAM/HnWVamty2PK0tR9c+sewhqzfn3URrr8rqH/rkj+T6dnMxUiex3VNtTdi98Oh+Ya6hqzfH+Pf1HuoDbjz1/iYtlVMLL5uxsyZd/CxAn9WpNiYGoWOlfSYvvkWrn9saLXBFbce+Puz8W9d/vUv9TXXl8n0Da3+h3+592faVgkx2b+ZPqLVeP1r++05kxk6WqXz70Tt6HpdsdDvsBJ9R7X5PXUKtT0DlEf+kFhfUqxPGlsKeXGtpWuf/CFzGrTir11odfhYqu3QehsNFNc4yb9TGDsDLiL3k9mXMTn6RvPu/emxthvou0WevAqI7Su2NXSJZjyomVpS/ZrxijS2be0cLv2cf5szd4GIOYPNvuz6/obsO99njmtt2JOX8P8BuBbiXf7tg29ca0h5D0LQFg/iNqpfC17h2rD+2DMJj6caJE1S/Tn/zrZn71LtrkPvwTnETYDpkf27grmeES+Ffd+tUJxp833m4LgVmbNG/Wb+R4sOE5tCf4ra0Xw+a0h5D3yh+93MSdupfptXaDvVT/dHqH4zntMgacL6n8gzSPLvPfLvq+MeUO4gZgEsE/i3OZYy+6SqTa5z+ppm9vkFuvliQA==
   </data>
  </layer>
  <objectgroup name="Ground">

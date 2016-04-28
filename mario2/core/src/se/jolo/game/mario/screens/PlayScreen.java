@@ -40,7 +40,6 @@ public class PlayScreen implements Screen {
         map = tmxMapLoader.load("level1.tmx");
         renderer = new OrthogonalTiledMapRenderer(map);
         camera.position.set(gamePort.getWorldWidth() / 2, gamePort.getWorldHeight() / 2, 0);
-
     }
 
     public void update (float dt){
